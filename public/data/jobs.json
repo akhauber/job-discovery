@@ -1,4 +1,240 @@
 {
-  "updated_at": null,
-  "jobs": []
+  "updated_at": "2026-11-23T12:15:00Z",
+  "jobs": [
+    {
+      "id": "historical-2026-11-01",
+      "posted_at": "2026-11-16",
+      "last_verified_at": "2026-11-23",
+      "company": "DeepSpace (Eudaimonic)",
+      "title": "GTM Intern — Spring 2027",
+      "season": "spring",
+      "location": "United States",
+      "work_mode": "remote",
+      "apply_url": "https://careers.deep.space/roles/gtm-intern-spring-2027",
+      "source": "University of Pittsburgh career center (employer URL listed)",
+      "overview": "Run developer growth experiments, build demos with coding agents, and measure signups and activation.",
+      "why_fit": "Strong overlap with product work, coding-agent development, marketing experiments, and creator/community initiatives.",
+      "relevant_experiences": [
+        "Product management internships",
+        "AI-assisted building and automation",
+        "Growth and community campaigns"
+      ],
+      "gaps": [
+        "Up to 40 hours/week; actual weekly commitment must be negotiated around coursework.",
+        "Employer application page could not be independently opened; verified university listing provides the URL.",
+        "Verify work authorization and final internship dates."
+      ],
+      "fit_score": 9.4,
+      "compensation": "$35/hr",
+      "hourly_pay": 35,
+      "hours": "Up to 40/week; flexible start",
+      "start_date": null,
+      "end_date": null,
+      "first_seen_at": "2026-11-22T08:41:41Z",
+      "status": "unverified",
+      "eligibility": "unverified",
+      "freshness": "confirmed"
+    },
+    {
+      "id": "historical-2026-11-02",
+      "posted_at": "2026-11-16",
+      "last_verified_at": "2026-11-23",
+      "company": "DeepSpace (Eudaimonic)",
+      "title": "GTM Intern — Summer 2027",
+      "season": "summer",
+      "location": "United States",
+      "work_mode": "remote",
+      "apply_url": "https://careers.deep.space/roles/gtm-intern-summer-2027",
+      "source": "University of Richmond career services (employer URL listed)",
+      "overview": "Work alongside product and engineering on developer adoption, growth experiments, demos, and community outreach.",
+      "why_fit": "Product and growth internships plus hands-on building with AI agents align with this cross-functional GTM role.",
+      "relevant_experiences": [
+        "Product management and developer collaboration",
+        "Growth and marketing experimentation",
+        "AI tooling and technical projects"
+      ],
+      "gaps": [
+        "Summer end date must be confirmed to be before August 17, 2027.",
+        "Employer application page could not be independently opened; verified university listing provides the URL.",
+        "Confirm start date around June 15 graduation."
+      ],
+      "fit_score": 9.2,
+      "compensation": "$35/hr",
+      "hourly_pay": 35,
+      "hours": "Up to 40/week",
+      "start_date": null,
+      "end_date": null,
+      "first_seen_at": "2026-11-22T08:41:41Z",
+      "status": "unverified",
+      "eligibility": "unverified",
+      "freshness": "confirmed"
+    },
+    {
+      "id": "historical-2026-11-03",
+      "posted_at": null,
+      "last_verified_at": "2026-11-23",
+      "company": "Precursor Ventures",
+      "title": "AI & Investment Operations Intern",
+      "season": "spring",
+      "location": "United States",
+      "work_mode": "remote",
+      "apply_url": "https://precursorvc.com/internship-aiinvestmentops/",
+      "source": "Precursor Ventures careers",
+      "overview": "Audit internal AI tools, build a shared workflow resource, and learn how early-stage investors evaluate founders.",
+      "why_fit": "AI workflow-building, technical product work, and process improvement transfer directly to the operational capstone.",
+      "relevant_experiences": [
+        "AI tools and workflow automation",
+        "Product analytics and operations",
+        "Startup product experience"
+      ],
+      "gaps": [
+        "Hourly pay not disclosed.",
+        "Current US-college enrollment and authorization requirements apply.",
+        "Employer deadline: November 29, 2026."
+      ],
+      "fit_score": 9.3,
+      "compensation": "Paid · rate not listed",
+      "hours": "Approximately 15/week",
+      "start_date": "2027-01-21",
+      "end_date": "2027-04-15",
+      "first_seen_at": "2026-11-22T08:41:41Z",
+      "status": "active",
+      "eligibility": "confirmed",
+      "freshness": "unverified"
+    },
+    {
+      "id": "historical-2026-11-04",
+      "posted_at": null,
+      "last_verified_at": "2026-11-23",
+      "company": "Precursor Ventures",
+      "title": "University Ecosystem Intern",
+      "season": "spring",
+      "location": "United States",
+      "work_mode": "remote",
+      "apply_url": "https://precursorvc.com/internship-universityecosystem/",
+      "source": "Precursor Ventures careers",
+      "overview": "Build campus-founder relationships, create community programming, and host an event with a venture capital team.",
+      "why_fit": "Campus leadership, event programming, storytelling, and startup growth are all relevant evidence.",
+      "relevant_experiences": [
+        "Student community and events leadership",
+        "Partnerships and growth work",
+        "Startup and content campaigns"
+      ],
+      "gaps": [
+        "Hourly pay not disclosed.",
+        "Campus-based event is expected; confirm logistics.",
+        "Employer deadline: November 29, 2026."
+      ],
+      "fit_score": 9.1,
+      "compensation": "Paid · rate not listed",
+      "hours": "Approximately 15/week",
+      "start_date": "2027-01-21",
+      "end_date": "2027-04-15",
+      "first_seen_at": "2026-11-22T08:41:41Z",
+      "status": "active",
+      "eligibility": "confirmed",
+      "freshness": "unverified"
+    },
+    {
+      "id": "historical-2026-11-05",
+      "posted_at": null,
+      "last_verified_at": "2026-11-23",
+      "company": "The Opus Group / MAS",
+      "title": "Interactive Resident",
+      "season": "spring",
+      "location": "United States",
+      "work_mode": "remote",
+      "apply_url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP",
+      "source": "Opus Group Jobvite",
+      "overview": "Explore interactive technologies and prototype experience-driven concepts with creative and technical teams.",
+      "why_fit": "Combines hands-on software building, product ideation, and cross-functional collaboration.",
+      "relevant_experiences": [
+        "Software and prototyping projects",
+        "Product ideation and shipping",
+        "Cross-functional technical collaboration"
+      ],
+      "gaps": [
+        "Role emphasizes interactive/experiential tech; portfolio examples may need careful selection.",
+        "Confirm weekly hours and work authorization requirements."
+      ],
+      "fit_score": 8.7,
+      "compensation": "$22/hr",
+      "hourly_pay": 22,
+      "hours": "Unverified",
+      "start_date": "2027-01-25",
+      "end_date": "2027-06-11",
+      "first_seen_at": "2026-11-19T11:21:23Z",
+      "status": "unverified",
+      "eligibility": "unverified",
+      "freshness": "unverified"
+    },
+    {
+      "id": "historical-2026-11-06",
+      "posted_at": null,
+      "last_verified_at": "2026-11-23",
+      "company": "TravisMathew",
+      "title": "National Sales Accounts Intern",
+      "season": "summer",
+      "location": "Huntington Beach, CA",
+      "work_mode": "hybrid",
+      "apply_url": "https://www.indeed.com/viewjob?jk=2073bba92e9a31dc",
+      "source": "Indeed listing; corroborated by Simplify",
+      "overview": "Support national wholesale accounts through reporting, retail analysis, inventory tracking, and account coordination.",
+      "why_fit": "Analytics, stakeholder management, and practical strategy work make this a credible adjacent business role.",
+      "relevant_experiences": [
+        "Business and product analytics",
+        "Cross-functional stakeholder coordination",
+        "Growth and strategy projects"
+      ],
+      "gaps": [
+        "Starts June 7, before June 15 graduation; flexibility must be confirmed.",
+        "36 hours/week reported in prior shortlist; verify in application.",
+        "Deadline reported as December 1, 2026; verify on employer site."
+      ],
+      "fit_score": 8.3,
+      "compensation": "$22/hr",
+      "hourly_pay": 22,
+      "hours": "36/week (verify)",
+      "start_date": "2027-06-07",
+      "end_date": "2027-08-12",
+      "first_seen_at": "2026-11-19T11:21:23Z",
+      "status": "unverified",
+      "eligibility": "unverified",
+      "freshness": "unverified"
+    },
+    {
+      "id": "historical-2026-11-07",
+      "posted_at": null,
+      "last_verified_at": "2026-11-23",
+      "company": "ACLU",
+      "title": "Social & Store Intern — Communications",
+      "season": "spring",
+      "location": "New York City / US remote (limited)",
+      "work_mode": "remote",
+      "apply_url": "https://job-boards.greenhouse.io/acluinternships/jobs/8918068002",
+      "source": "ACLU Greenhouse",
+      "overview": "Help the communications and marketing team with social media and merchandise-related work.",
+      "why_fit": "Content creation, marketing campaigns, and campus community work provide experience relevant to the communications scope.",
+      "relevant_experiences": [
+        "Digital content and marketing",
+        "Growth campaigns",
+        "Student outreach and community initiatives"
+      ],
+      "gaps": [
+        "Remote positions are limited; confirm a fully remote arrangement from California.",
+        "Weekly hours depend on the chosen internship schedule.",
+        "Review any NYC attendance requirements before applying."
+      ],
+      "fit_score": 8.1,
+      "compensation": "$20/hr",
+      "hourly_pay": 20,
+      "hours": "20 or 35/week (verify)",
+      "start_date": null,
+      "end_date": null,
+      "first_seen_at": "2026-11-20T08:17:07Z",
+      "status": "unverified",
+      "eligibility": "unverified",
+      "freshness": "unverified"
+    }
+  ]
 }
