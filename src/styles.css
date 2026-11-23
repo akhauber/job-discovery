@@ -106,3 +106,18 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 .archived-card p{font-size:12px;line-height:1.6;color:#99938b;margin:11px 0}
 .archived-note{font-size:11px;color:#aaa39b;border-top:1px solid #dcd8d0;padding-top:12px;margin-top:15px}
 @media(max-width:610px){.archive{margin-top:40px}.archive-heading{align-items:flex-start;flex-direction:column}.archived-card{padding:17px}}
+
+/* Motion system: tactile job interactions without obscuring content. */
+.job-card{transform:translateY(0);transition:transform .24s cubic-bezier(.2,.7,.2,1),border-color .2s ease,box-shadow .24s ease;will-change:transform}
+@media(hover:hover) and (pointer:fine){
+ .job-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px #6d4a261e}
+ .more{transition:transform .2s ease,color .2s ease}
+ .more:hover{transform:translateX(3px)}
+ .tabs button,.icon-btn,.text-btn,.save,.apply{transition:background-color .18s ease,color .18s ease,transform .18s ease}
+ .tabs button:hover,.icon-btn:hover{transform:translateY(-1px)}
+}
+.card-main{cursor:pointer}
+.drawer{will-change:transform}
+@media(prefers-reduced-motion:reduce){
+ .job-card,.more,.tabs button,.icon-btn,.text-btn,.save,.apply{transition:none!important;transform:none!important;will-change:auto}
+}
