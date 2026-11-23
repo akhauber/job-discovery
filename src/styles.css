@@ -36,3 +36,53 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
  .icon-btn:hover{background:#f9e8d4;color:#bd5c33}
 }
 @media(max-width:650px){.intro{min-height:194px;padding:50px 0 28px}.intro h1{max-width:330px}.cave-art{width:93%;right:-72px;top:-8px;opacity:.14}}
+
+/* Keep prehistoric drawings in their own grid area, never beneath the heading. */
+.intro{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(220px,37%);
+  column-gap:24px;
+  align-items:center;
+  overflow:hidden;
+  min-height:225px;
+}
+.intro h1{
+  grid-column:1;
+  grid-row:1;
+  margin:0;
+  max-width:100%;
+  min-width:0;
+  overflow-wrap:normal;
+  text-wrap:balance;
+}
+.cave-art{
+  grid-column:2;
+  grid-row:1;
+  position:static;
+  right:auto;
+  top:auto;
+  display:block;
+  width:100%;
+  height:auto;
+  max-height:190px;
+  opacity:.35;
+  pointer-events:none;
+}
+@media(max-width:650px){
+  .intro{
+    grid-template-columns:minmax(0,1fr);
+    grid-template-rows:auto 105px;
+    row-gap:8px;
+    padding:42px 0 25px;
+    min-height:0;
+  }
+  .intro h1{grid-column:1;grid-row:1;max-width:100%}
+  .cave-art{
+    grid-column:1;
+    grid-row:2;
+    justify-self:end;
+    width:min(100%,360px);
+    height:105px;
+    opacity:.25;
+  }
+}
