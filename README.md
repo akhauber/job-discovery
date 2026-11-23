@@ -20,3 +20,5 @@ Fields: company, title, season (spring/summer/both), location, work_mode (remote
 
 ### Privacy
 This is a public website. Saved/dismissed/seen preferences live in the **current browser only**. Do not put secrets in source or public/data/jobs.json.
+
+Deployment note: GitHub Pages source must be GitHub Actions (not branch/Jekyll). Use a fresh workflow run if a rerun reports duplicate pages artifacts.
