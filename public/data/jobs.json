@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:30:00Z",
+  "updated_at": "2026-11-23T17:22:36.423Z",
   "jobs": [
     {
       "id": "historical-2026-11-01",
@@ -329,6 +329,40 @@
       "hours": "Unverified",
       "closed_at": "2026-11-05",
       "status": "closed",
+      "eligibility": "unverified",
+      "freshness": "confirmed"
+    },
+    {
+      "id": "method-residency-product-management-summer-2027",
+      "company": "Method (GlobalLogic)",
+      "title": "Residency Internship Program — Product Management",
+      "season": "summer",
+      "location": "Remote — United States; offices in Charlotte, New York, Santa Clara",
+      "work_mode": "remote",
+      "apply_url": "https://job-boards.greenhouse.io/method/jobs/8207585003",
+      "source": "Employer Greenhouse (job 8207585003); cross-checked against Nov 20 2026 listings",
+      "overview": "Join a small Product, Design, and Engineering residency team to research user needs, prototype with AI, and build and ship a digital product.",
+      "why_fit": "Your Capital One and Capital Group product internships, customer research, developer collaboration, and AI-assisted prototyping map closely to Method's AI-native product work.",
+      "relevant_experiences": [
+        "Capital One PM internship: customer interviews, analytics tool, and shipping with engineers",
+        "Capital Group PM internship: workflow automation, research, and product analytics",
+        "Hands-on React and AI workflow projects"
+      ],
+      "gaps": [
+        "Summer 2027 start and end dates are not confirmed; must arrange dates after June 13 and finish before August 17, 2027.",
+        "Confirm the remote US residency option and whether recent graduates are eligible.",
+        "Pay reported as $20/hour on third-party listings; confirm in employer offer."
+      ],
+      "fit_score": 9.1,
+      "compensation": "$20/hr (reported; verify)",
+      "hourly_pay": 20,
+      "hours": "Full-time summer residency (weekly hours unverified)",
+      "start_date": null,
+      "end_date": null,
+      "posted_at": "2026-11-20",
+      "first_seen_at": "2026-11-23T17:22:36.421Z",
+      "last_verified_at": "2026-11-23",
+      "status": "unverified",
       "eligibility": "unverified",
       "freshness": "confirmed"
     }
