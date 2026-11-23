@@ -90,3 +90,19 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 /* High-visibility new-job marker, independent of the ochre theme. */
 .new{background:#168449!important;color:#fff!important;border:1px solid #0e6838!important;font-weight:800;box-shadow:0 1px 3px #075c3028}
 .new .dot{background:#d7ffe2!important;width:6px;height:6px}
+
+/* Noninteractive, muted archive for verified closed roles */
+.archive{margin-top:64px;border-top:1px solid #d5c5b2;padding-top:25px}
+.archive-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}
+.archive-heading h2{font-size:16px;font-weight:650;margin:0;color:#786c60}
+.archive-heading>span{font-size:11px;color:#a19a8f}
+.archived-list{display:grid;gap:10px}
+.archived-card{display:block;border:1px solid #d6d0c6;border-radius:12px;background:#eeeae2;color:#908c84;padding:18px 23px;box-shadow:none;filter:saturate(.22);cursor:not-allowed;user-select:text}
+.archived-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.archived-company{font-size:12px;font-weight:650;color:#868079}
+.expired-pill{display:inline-flex;padding:5px 9px;border-radius:50px;background:#dad7d1;color:#77716c;font-size:10px;font-weight:750;letter-spacing:.025em}
+.archived-card h3{font-size:17px;letter-spacing:-.027em;font-weight:650;margin:10px 0;color:#77736b}
+.archived-meta{font-size:12px;color:#908b84}
+.archived-card p{font-size:12px;line-height:1.6;color:#99938b;margin:11px 0}
+.archived-note{font-size:11px;color:#aaa39b;border-top:1px solid #dcd8d0;padding-top:12px;margin-top:15px}
+@media(max-width:610px){.archive{margin-top:40px}.archive-heading{align-items:flex-start;flex-direction:column}.archived-card{padding:17px}}
