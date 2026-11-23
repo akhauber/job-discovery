@@ -86,3 +86,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
     opacity:.25;
   }
 }
+
+/* High-visibility new-job marker, independent of the ochre theme. */
+.new{background:#168449!important;color:#fff!important;border:1px solid #0e6838!important;font-weight:800;box-shadow:0 1px 3px #075c3028}
+.new .dot{background:#d7ffe2!important;width:6px;height:6px}
