@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:15:00Z",
+  "updated_at": "2026-11-23T12:30:00Z",
   "jobs": [
     {
       "id": "historical-2026-11-01",
@@ -235,6 +235,102 @@
       "status": "unverified",
       "eligibility": "unverified",
       "freshness": "unverified"
+    },
+    {
+      "id": "expired-2026-11-01",
+      "first_seen_at": "2026-11-23T12:30:00Z",
+      "last_verified_at": "2026-11-23",
+      "posted_at": "2026-10-20",
+      "start_date": null,
+      "end_date": null,
+      "company": "EnerSys",
+      "title": "Product Success Intern — Summer 2027",
+      "season": "summer",
+      "location": "Remote · USA",
+      "work_mode": "remote",
+      "apply_url": "https://www.internships.com/posting/product-success-intern-enersys-1076984233",
+      "source": "Internships.com (marked closed Nov 12, 2026)",
+      "overview": "Product adoption, customer feedback, interviews, and usage analytics for digital portals and connected products.",
+      "why_fit": "Excellent experience overlap with product feedback, user research, analytics, and cross-functional delivery.",
+      "relevant_experiences": [
+        "Capital One digital-wallet feedback and customer interviews",
+        "Capital Group adoption analytics and workflow redesign"
+      ],
+      "gaps": [
+        "Summer end date was listed only as August 2027, so compatibility with August 17 start was uncertain."
+      ],
+      "fit_score": 9.4,
+      "compensation": "$20–$24/hr (reported)",
+      "hours": "Full-time summer internship",
+      "closed_at": "2026-11-12",
+      "status": "closed",
+      "eligibility": "unverified",
+      "freshness": "confirmed"
+    },
+    {
+      "id": "expired-2026-11-02",
+      "first_seen_at": "2026-11-23T12:30:00Z",
+      "last_verified_at": "2026-11-23",
+      "posted_at": null,
+      "start_date": null,
+      "end_date": null,
+      "company": "Inseparable",
+      "title": "Communications Intern — Spring 2027",
+      "season": "spring",
+      "location": "Remote · USA",
+      "work_mode": "remote",
+      "apply_url": "https://www.inseparable.us/wp-content/uploads/2026/11/Spring-2027-Communications-Intern-Job-Description.pdf",
+      "source": "Employer-issued internship description (Nov 16 deadline)",
+      "overview": "Digital video and YouTube optimization, social campaigns, content research, and communications operations.",
+      "why_fit": "Prior content campaigns, social marketing, and community programming are directly relevant.",
+      "relevant_experiences": [
+        "Creator's Club content and marketing",
+        "ServiceNow brand campaigns",
+        "Student organization community initiatives"
+      ],
+      "gaps": [
+        "Role emphasized advocacy and communications rather than product craft."
+      ],
+      "fit_score": 8.8,
+      "compensation": "$25/hr",
+      "hourly_pay": 25,
+      "hours": "20/week",
+      "closed_at": "2026-11-16",
+      "status": "closed",
+      "eligibility": "confirmed",
+      "freshness": "confirmed"
+    },
+    {
+      "id": "expired-2026-11-03",
+      "first_seen_at": "2026-11-23T12:30:00Z",
+      "last_verified_at": "2026-11-23",
+      "posted_at": null,
+      "start_date": null,
+      "end_date": null,
+      "company": "Acxiom",
+      "title": "Marketing Operations Intern",
+      "season": "spring",
+      "location": "Remote · USA",
+      "work_mode": "remote",
+      "apply_url": "https://www.internships.com/posting/intern-marketing-operations-acxiom-1020412430",
+      "source": "Internships.com (marked closed Nov 5, 2026)",
+      "overview": "Support campaign operations, marketing analytics, reporting, and cross-functional improvements.",
+      "why_fit": "Strong overlap with analytics, growth experiments, and automated workflows.",
+      "relevant_experiences": [
+        "Capital Group analytics and automation",
+        "Creator's Club campaign measurement",
+        "AfterQuery growth initiatives"
+      ],
+      "gaps": [
+        "Verify actual internship term and eligibility from the archived description."
+      ],
+      "fit_score": 8.7,
+      "compensation": "Pay unverified",
+      "hours": "Unverified",
+      "closed_at": "2026-11-05",
+      "status": "closed",
+      "eligibility": "unverified",
+      "freshness": "confirmed"
     }
   ]
 }
